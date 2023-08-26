@@ -1,0 +1,23 @@
+while true and task.wait() do
+    
+    game:GetService("ReplicatedStorage").ReaperSky:FireServer()
+
+
+    
+end
+
+while true and task.wait() do
+    
+    game:GetService("ReplicatedStorage").ReverseSky:FireServer()
+
+
+    
+end
+
+while true and task.wait() do
+    
+    game:GetService("ReplicatedStorage").Yellow:FireServer()
+
+
+    
+end
