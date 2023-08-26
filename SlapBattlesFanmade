@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/Blackscreen/main/A"))()
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/Yellowsky/main/A"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/Blackscreen/main/A"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/YellowScreen/main/A"))()
